@@ -1,3 +1,5 @@
 git commands
 
 git init
+
+git commit 
